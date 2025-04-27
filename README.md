@@ -1,6 +1,6 @@
 # Hey there, I'm Ankit 👋
 
-🎓 1st-year AI Engineering student | 🚀 Building the future, one crazy project at a time\
+🎓 2nd-year AI Engineering student | 🚀 Building the future, one crazy project at a time\
 🌟 Passionate about Computer Vision, Machine Learning, and creating *magical* tech experiences\
 🎯 Mission: Craft AI that feels *personal*, *emotional*, and *powerful*
 
