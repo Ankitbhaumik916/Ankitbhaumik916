@@ -27,7 +27,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
 ![GitHub Commits](https://img.shields.io/badge/Commits_2025-325-yellow)
 ## 🚀 Live Stats
-Click [here](https://yourwebsite.com) to view live commit stats and the clock!
+Click [here](https://https://github.com/Ankitbhaumik916.com) to view live commit stats and the clock!
 
 
 
