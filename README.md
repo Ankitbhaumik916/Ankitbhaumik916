@@ -23,70 +23,12 @@
 📈 Live Commit Counter
 
 🕛 Commits made in 2025:
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ankit's 2025 Commit Stats</title>
-  <style>
-    body {
-      font-family: 'Arial', sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #2C3E50;
-      color: #ecf0f1;
-      text-align: center;
-    }
-    .container {
-      position: relative;
-      height: 100vh;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-      background: linear-gradient(to right, #3498db, #8e44ad);
-    }
-    .commit-counter, .clock {
-      font-size: 2em;
-      margin: 20px;
-    }
-    .commit-counter {
-      font-weight: bold;
-      color: #f39c12;
-    }
-    .clock {
-      font-style: italic;
-    }
-    .counter {
-      font-size: 3em;
-      font-weight: bold;
-      color: #e74c3c;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <div class="commit-counter">
-      🕛 Commits made in 2025:
-    </div>
-    <div class="counter">
-      325
-    </div>
-    <div class="clock">
-      Current Time: 16:30:39
-    </div>
-  </div>
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Commits](https://img.shields.io/badge/Commits_2025-325-yellow)
+## 🚀 Live Stats
+Click [here](https://yourwebsite.com) to view live commit stats and the clock!
 
-  <script>
-    // Function to update the clock every second
-    setInterval(function() {
-      const currentTime = new Date().toLocaleTimeString();
-      document.querySelector('.clock').textContent = 'Current Time: ' + currentTime;
-    }, 1000);
-  </script>
-</body>
-</html>
 
 
 ## 📊 GitHub Stats (2025 Version)
