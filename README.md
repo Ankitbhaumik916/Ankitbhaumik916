@@ -20,6 +20,10 @@
 - [Animal Species Prediction](link) – Identifying animal species from images 🐯📸
 - [TSVA](link) – AI tool to validate legal term sheets 📁🤖
 
+📈 Live Commit Counter
+
+🕛 Commits made in 2025:
+
 ## 📊 GitHub Stats (2025 Version)
 
 💻 Tech Stack I Love Working With
