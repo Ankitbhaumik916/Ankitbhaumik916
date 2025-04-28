@@ -20,18 +20,6 @@
 - [Animal Species Prediction](link) – Identifying animal species from images 🐯📸
 - [TSVA](link) – AI tool to validate legal term sheets 📁🤖
 
-## 📈 Live Commit Counter
-
-🕛 Commits made in 2025:
-
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankitbhaumik916&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
-![GitHub Commits](https://img.shields.io/badge/Commits_2025-325-yellow)
-
-## 🚀 Live Stats
-Click [here](https://github.com/Ankitbhaumik916) to view live commit stats and the clock!
-
-## 📊 GitHub Stats (2025 Version)
 
 ### 💻 Tech Stack I Love Working With
 
