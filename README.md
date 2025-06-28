@@ -1,4 +1,4 @@
-# Hey there, I'm Ankit 👋
+# Hey there, I'm Ankit 
 
 🎓 2nd-year AI Engineering student | 🚀 Building the future, one crazy project at a time\
 🌟 Passionate about Computer Vision, Machine Learning, and creating *magical* tech experiences\
@@ -68,7 +68,3 @@ I'm always excited to talk about AI projects, wild startup ideas, tech brainstor
 🛠️ Portfolio (coming soon...)
 
 ---
-
-## 🌟 Fun Fact
-
-> When I'm not building AI, I'm dreaming about building *GODSEYE* IRL 👁️🌍
