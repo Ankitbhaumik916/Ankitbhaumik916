@@ -61,7 +61,6 @@
 ### 🔧 Tools & Workflow
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square\&logo=docker\&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
 
 ---
