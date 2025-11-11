@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Ankit Bhaumik
+# Hey, I'm Ankit Bhaumik
 
 🎓 **3rd-Year B.Tech Artificial Intelligence Student** | 🧠 Tech Creator on a Mission
 🚀 Turning bold ideas into real-world AI products — one wild project at a time
