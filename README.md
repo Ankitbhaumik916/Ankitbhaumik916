@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on KLOS.<br>👯 I’m looking to collaborate on Task_optimizer.<br>🤝 I’m looking for help with Digi_twin<br>🌱 I’m currently learning about Deep learning based NCF<br>💬 Ask me about Machine Learning & AI<br>
+🔭 I’m currently working on KLOS.<br>👯 I’m looking to collaborate on KLOS<br>🤝 I’m looking for help with Digi_twin<br>🌱 I’m currently learning about Deep learning based NCF<br>💬 Ask me about Machine Learning & AI<br>
 
 
 ## 🌐 Socials:
